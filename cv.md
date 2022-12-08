@@ -9,29 +9,32 @@ title: Vladlena Masalskaya CV
 <a href="masalskayavladlena@gmail.com">masalskayavladlena@gmail.com</a>
 | <a href="https://www.linkedin.com/in/vlada-masalskaya-511565258/">My linkedin page</a>
 </div>
-*discord- @VladaRu*
+Discord- @VladaRu     
+
+![Photo](‪C:\Users\user\Downloads\62.jpg)
+-------------------------------------------------------
 
 ## Skills
 
-HTML, CSS & Git Basics, SQL, layout, PHP, WordPress
+_HTML, CSS & Git Basics, SQL, layout, PHP, WordPress_
 
 
-### Information about yourself
+## Information about yourself
 I am constantly learning and improving my skills, this can be tracked by my education and the number of certificates, I also improve the level of languages. My goal is to expand my boundaries of freedom, build a career in IT, move to Europe and speak other languages ​​fluently, diligent and industrious. No IT experience.
 
 
-#### Education
+## Education
 
 `2012-2015`
-__Belarusian State Medical University.__
+__Belarusian State Medical University,__
 pharmacist
 
 `2016-2021`
-__Belarusian State Technological University__
+__Belarusian State Technological University,__
 software engineer
 
 `2020-2021`
-__EPAM scool__
+__EPAM scool,__
 Software Test Automation Engineer
 
 `2021-2024`
@@ -39,21 +42,20 @@ __Maternity leave__
 
 
 
-##### English language
+## English language
 
 `Level`
-Intermediate
+__Intermediate__
+
 `Course`
-Englishtochka - 1 year,**red certificate**
+__Englishtochka__ - 1 year, **red certificate**
 
 
-###### Project
+## Project
 
-<!-- A list is also available [online](https://github.com/VladaRu/rsschool-cv.git) -->
+[online](https://github.com/VladaRu/rsschool-cv.git) 
 
 
-![Photo](‪C:\Users\user\Downloads\62.jpg)
+ #### Footer
 
-<!-- ### Footer
-
-Last updated: Dec 2022 -->
+Last updated: Dec 2022
