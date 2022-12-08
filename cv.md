@@ -1,7 +1,4 @@
----
-layout: cv
-title: Vladlena Masalskaya CV
----
+
 # Vladlena Masalskaya                                
 
 
@@ -11,7 +8,7 @@ title: Vladlena Masalskaya CV
 </div>
 Discord- @VladaRu     
 
-![Photo](‪C:\Users\user\Downloads\62.jpg)
+![Photo](/Users/ser/Downloads/62.jpg)
 -------------------------------------------------------
 
 ## Skills
