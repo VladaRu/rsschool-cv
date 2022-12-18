@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html class="page" lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Masalskaya Vlada CV</title>
+
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="./assets/favicon.ico">
+
+</head>
+<body>
+
+<header class ="header">
+
+    <nav class="nav">
+        <ul class="nav-list">
+          <li class="nav-item"><a href="#contact" class="nav-link">Contact</a></li>
+          <li class="nav-item"><a href="#about me" class="nav-link">About me</a></li>
+          <li class="nav-item"><a href="#skills" class="nav-link">Skills</a></li>
+          <li class="nav-item"><a href="#Code Example" class="nav-link">Code</a></li>
+          <li class="nav-item"><a href="#Languages" class="nav-link">Languages</a></li>
+          <li class="nav-item"><a href="#education" class="nav-link">Education</a></li>
+        </ul>
+      </nav>
+    
+</header>
+
+<main>
+    <main class="container">
+        <div class="left-side">
+          <figure class="figure--left-side">
+            <img src="rsschool-cv/Photo.jpg" width="300" height="307" class="photo" alt="Photo of Vlada Masalskaya">
+          </figure>
+        </div>
+        <div class="right-side">
+        <section class="page-title">
+          <h1 class="main-title">Vlada Masalskaya</h1>
+          <p>Front-End developer</p>
+        </section>
+        <section class="about me" id="about me">
+            <h2 class="section-title">About me</h2>
+            <p>
+              I like to study and learn something new, I read books and meditate 
+              a lot. I love beauty, 
+              style, design. I lead an active and healthy 
+              lifestyle. I love working and seeing the results of my work.<br>
+              I am constantly learning and improving my skills, this can be 
+              tracked by my education and
+               the number of certificates, I also 
+              improve the level of languages. My goal is to expand my
+               boundaries
+               of freedom, move to Europe and speak other languages ​​fluently,
+              diligent and industrious. 
+              No IT experience.
+            </p>
+          </section>
+          <section class="skills" id="skills">
+            <h2 class="section-title">Skills</h2>
+            <ul class="skills__list">
+              <li>Engineering</li>
+              <li>SQL</li>
+              <li>Git, Webpack</li>
+              <li>HTML/HTML5, CSS3</li>
+              <li>PHP</li>
+              <li>WordPress</li>
+              <li>Nodejs basics</li>
+              <li>English - B1. Seftificate from English school.
+            </ul>
+          </section>
+
+          <section class="contact" id="contact">
+            <h2 class="section-title">Contact</h2>
+            <ul class="contact__list">
+              <li class="contact__item">
+                Discord: <br>
+                Vlada (@VladaRu) #0332
+              </li>
+              <li class="contact__item">
+                Email:<br><a href="mailto:masalskayavlada@gmail.com">masalskayavlada@gmail.com</a>
+              </li>
+              <li class="contact__item">
+                Address:<br>
+                <span>Minsk, Belarus</span>
+              </li>
+            </ul>
+          </section>
+    
+          <section class="education" id="education">
+            <h2 class="section-title">Education</h2>
+            <ul class="education__list">
+              <li class="education__item">
+                2012-2015 <br> Belarusian State Medical University - Pharmacist<br>
+              </li>
+              <li class="education__item">
+                2016-2021 <br> Belarusian State Technological University - Software engineer
+              </li>
+              <li class="education__item">
+                2020-2021 <br>EPAM school - Software Test Automation Engineer
+              </li>
+            </ul>
+          </section>
+          
+          <section class="Code Example" id="Code Example">
+            <h2 class="section-title">Code Example</h2>
+            <pre>
+function onPageLoaded() {
+    const saveButton = document.querySelector("button.save");
+    const clearButton = document.querySelector("button.clear");
+    const showTipsButton = document.querySelector("button.showTips");
+    const closeTipsButton = document.querySelector("a.closeTips");
+    const overlay = document.querySelector("#overlay")
+                
+    saveButton.addEventListener("click", () => {
+        localStorage.setItem("todos", ul.innerHTML);
+        });
+        clearButton.addEventListener("click", () => {
+         ul.innerHTML = "";
+        localStorage.removeItem('todos', ul.innerHTML);
+            });
+        showTipsButton.addEventListener("click", () => {
+            overlay.style.height = "100%";
+            });
+        closeTipsButton.addEventListener("click", () => {
+            overlay.style.height = "0";
+            });
+        }
+            </pre>
+            <section class="Languages" id="Languages">
+                <h2 class="section-title">Languages</h2>
+                <ul class="languages__list">
+                    <li class="languages__item">
+                        <p>Russian - native</p>
+                        <p>English - Intermediate</p>
+                        <img src="./assets/0001.jpg" width="450" height="400" alt="english level" >
+                    </li>
+
+</main>
+
+    <footer class="footer">
+        <a class="footer__github" href="https://github.com/VladaRu" target="_blank">
+          My GitHub
+        </a>
+        <p class="footer__year"> December 2022</p>
+        <a class="footer__rsschool" href="https://rs.school/js/" target="_blank">
+          <img src="assets/Screenshot_1.png" width="86" height="32" alt="RS School">
+        </a>
+      </footer>
+
+
+
+</body>
+</html>
